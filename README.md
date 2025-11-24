@@ -1,6 +1,6 @@
 # Rice University DL System Design and Optimization
 
-This course is fully described on our [course homepage](https://rice-course-mlsys.github.io/DL System Design and Optimization/).
+This course is fully described on our [course homepage](https://rice-course-mlsys.github.io/DL-System-Design-and-Optimization/).
 
 ## Attribution
 

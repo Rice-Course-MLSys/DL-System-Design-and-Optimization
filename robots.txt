@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /tags/*
 
-Sitemap: https://rice-course-mlsys.github.io/MLSys-Seminar/sitemap.xml
+Sitemap: https://rice-course-mlsys.github.io/DL-System-Design-and-Optimization/sitemap.xml

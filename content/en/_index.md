@@ -35,15 +35,15 @@ Every few weeks, we will also host a guest lecture from leading researchers and 
 
 **Lecture Videos:** [Link to be provided] 
 
-**Time:** Friday 2:00 PM–3:15 PM CST
+**Time:** *Wednesday, Friday* 12:30 PM - 01:45 PM CST
 
 **Building:**  Anne and Charles Duncan Hall 
 
-**Room:** 1070
+**Room:** TBA
 
-**Start Date:** 08/25/2025 
+**Start Date:** TBD
 
-**End Date:** 12/05/2025
+**End Date:** TBD
 
 
 

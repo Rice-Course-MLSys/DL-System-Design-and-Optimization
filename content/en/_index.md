@@ -1,35 +1,35 @@
 ---
-title: "Machine Learning System Seminar"
+title: "DL System Design and Optimization"
 geekdocBreadcrumb: false
 # geekdocNav: false
 # geekdocAnchor: false
 ---
 
-> **[UPDATE]:** Dr. Guan Yue's Slides now in Guest Lectures Page
+## COMP 568 - Spring 2026
 
-> **[IMPORTANT UPDATE] Assignment Schedule:** [[Google Sheet]](https://docs.google.com/spreadsheets/d/17DBRr8kjZIyAQJ1P26436a4KRUBQLg1sgonxTVYW_DM/edit?usp=sharing)
+Deep learning has become the computational engine powering modern AI—from large language models and generative diffusion transformers to vision-language multimodal systems. However, as models grow larger and workflows become more complex, traditional training and inference pipelines struggle to keep up. Efficient system design is critical for making deep learning scalable, cost-effective, and deployable in real-world environments.
 
-## COMP 620 - Fall 2025
-
-This course is a research seminar focused on efficient machine learning systems. This is a crucial area as modern deep neural networks, especially Large Language Models (LLMs) and generative models, demand extraordinary levels of computation. This computational cost hinders their deployment and scaling, creating significant challenges for both resource-constrained edge devices and large-scale cloud infrastructure. This course delves into the cutting-edge techniques that enable powerful and efficient AI applications.
-
-We will cover the full stack of AI systems, from low-level kernel optimizations to high-level algorithm and model designs. The course will survey and dissect recent influential research papers in the field.
+This course provides a deep dive into the principles and practices of building high-performance deep learning systems. It explores the full stack of techniques—from low-level GPU kernel implementations to distributed training strategies and system-aware algorithm design—that enable state-of-the-art models to train faster and serve more efficiently. Students will engage with cutting-edge research and industry practices to understand how modern deep learning systems are optimized end-to-end.
 
 ![img](./mlarch.jpg)
 
 ---
 **Topics include:**
-- **Kernel-Level Optimizations**: I/O-aware and exact attention mechanisms (e.g., FlashAttention), sparse attention, and custom kernel generation with AI compilers (e.g., TVM, MLIR).
+- **High-Performance Kernel Design**: Custom CUDA kernels, memory hierarchy optimizations, operator fusion, I/O-aware compute scheduling, and leveraging compiler stacks such as TVM, Triton, and MLIR.
 
-- **Efficient LLMs**: State-of-the-art techniques for efficient training (e.g., ZeRO, LoRA), inference (e.g., vLLM, speculative decoding), model compression (quantization, pruning), and long-context optimizations.
+- **Distributed Training Systems**: Parallelism techniques (data, tensor, pipeline, sequence), memory-efficient training (ZeRO, activation checkpointing), and system-level tradeoffs for scaling to trillion-parameter models.
 
-- **Efficient Model Architectures**: Design principles for efficient models, including Mixture-of-Experts (MoE) and State Space Models (Mamba).
+- **Optimized Inference Pipelines**: Serving systems such as TensorRT, vLLM, continuous batching, speculative decoding, KV-cache management, and deployment on heterogeneous hardware.
 
-- **Generative AI Systems**: Optimization techniques for emerging modalities, including efficient video generation, super-resolution, and understanding.
+- **Model Compression & Acceleration**: Quantization, pruning, distillation, structured sparsity, and hardware-aware model transformation.
 
-- **Secure and Private AI**: Methods for ensuring model and data security, including watermarking and encryption in the context of large models.models
+- **Systems for Generative Models**: Optimization of diffusion models, autoregressive video generation, multi-GPU serving for high-resolution outputs, and latency/throughput tradeoffs.
 
-This course is run as a research seminar. The focus will be on critically reading, presenting, and discussing influential papers in efficient AI systems. Through weekly readings and student-led presentations, participants will gain a deep understanding of the key challenges, foundational techniques, and future directions in the field. Approximately every two weeks, we will also host a **guest lecture** from a leading researcher or engineer from academia or industry, providing direct insights into the state-of-the-art.
+- **Reliability, Security, and Monitoring**: Fault-tolerant training, secure model execution, inference integrity, and system-level debugging and profiling tools.
+
+This course is run as a project- and discussion-driven seminar. Students will analyze state-of-the-art papers, present research findings, and design their own system components through hands-on projects. The goal is to develop a holistic understanding of how deep learning workloads interact with hardware and software systems—and how to optimize them for modern scale.
+
+Every few weeks, we will also host a guest lecture from leading researchers and practitioners in deep learning systems, offering firsthand insights into frontier challenges and innovations.
 
 ---
 

@@ -7,19 +7,7 @@ sortReverse: true
 
 ## Grading
 
-The tentative grading breakdown for this course is as follows:
-
-- **Participation:** 30%  
-- **Paper Summary:** 30%  
-- **Paper Presentation & Discussion:** 40% 
-
----
-
-### Groups
-
-- Each student will present **their own assigned/chosen paper** individually (no groups for presentations).  
-- Please submit your paper preferences and presentation slot by **XXX**.
-- After this deadline, the instructor will assign remaining students a paper and a presentation slot.
+TBD
 
 ---
 

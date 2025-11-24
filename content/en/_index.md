@@ -5,7 +5,7 @@ geekdocBreadcrumb: false
 # geekdocAnchor: false
 ---
 
-## COMP 568 - Spring 2026
+## COMP 468/568 - Spring 2026
 
 Deep learning has become the computational engine powering modern AI—from large language models and generative diffusion transformers to vision-language multimodal systems. However, as models grow larger and workflows become more complex, traditional training and inference pipelines struggle to keep up. Efficient system design is critical for making deep learning scalable, cost-effective, and deployable in real-world environments.
 

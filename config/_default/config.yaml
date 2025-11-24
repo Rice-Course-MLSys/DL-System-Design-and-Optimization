@@ -2,7 +2,7 @@
 baseURL: https://rice-course-mlsys.github.io/DL-System-Design-and-Optimization/
 # baseURL: "/"
 # hugo server --baseURL=http://localhost:1313/
-title: "COMP 568"
+title: "COMP 468/568"
 theme: hugo-geekdoc
 
 # Required to get well formatted code blocks

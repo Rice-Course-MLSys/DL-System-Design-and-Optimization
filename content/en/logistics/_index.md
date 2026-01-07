@@ -7,7 +7,11 @@ sortReverse: true
 
 ## Grading
 
-TBD 
+- Experiments (10 total): 50%
+- Open-source deployment project + short report: 20%
+- Paper readings (5) + short reports: 20%
+- Course presentation: 10%
+
 
 ---
 

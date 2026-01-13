@@ -2,6 +2,7 @@
 title: Schedule
 ---  
 
+
 <style>
 details summary {
     width: 200px;

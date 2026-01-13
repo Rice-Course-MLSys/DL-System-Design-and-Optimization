@@ -3,6 +3,8 @@ title: "About"
 sortReverse: true
 ---
 
+> **[IMPORTANT UPDATE] Tables:** [[Paper Reading]](https://docs.google.com/spreadsheets/d/1Ngvq1AmHGQM9snaqJ-YnOpaBlbpE9lLnx7yZUrJPnEU/edit?usp=sharing) [[Course Presentation]](https://docs.google.com/spreadsheets/d/1A6mRKnstF_ZnnTlxThOGPJXnHrSnx1dldHg4RKAxhNk/edit?usp=sharing)
+
 Deep learning has become the computational engine powering modern AI—from large language models and generative diffusion transformers to vision-language multimodal systems. However, as models grow larger and workflows become more complex, traditional training and inference pipelines struggle to keep up. Efficient system design is critical for making deep learning scalable, cost-effective, and deployable in real-world environments.
 
 This course provides a deep dive into the principles and practices of building high-performance deep learning systems. It explores the full stack of techniques—from low-level GPU kernel implementations to distributed training strategies and system-aware algorithm design—that enable state-of-the-art models to train faster and serve more efficiently. Students will engage with cutting-edge research and industry practices to understand how modern deep learning systems are optimized end-to-end.

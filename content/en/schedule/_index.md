@@ -16,18 +16,18 @@ details summary {
 
 | Week | Lecture 1 | Lecture 2 |
 |------|----------------------------------|--------------------------|
-| W1 | Introduction to Deep Learning Systems; GPU/Accelerator Overview | S26-Week-1-Lect2-CIFAR10.pptx — CIFAR-10 example and basic DL workflow |
-| W2 | Modern GPU Architecture for Deep Learning | S26-Week-2-Lect2-GEMM.pptx — Matrix multiplication and GPU compute cores |
-| W3 | CUDA Programming and Kernel Optimization | S26-Week-3-Lect2-TensorCore.pptx — Tensor Core programming and mixed precision |
-| W4 | Memory Hierarchy, Caching, and Memory Management | S26-Week-4-Lect2-Convolution.pptx — Convolution kernel optimization and dataflow |
-| W5 | Tensor Operations and Optimized Kernels | S26-Week-5-Lect2-Transformer.pptx — Transformer model and attention computation |
-| W6 | Compiler Techniques for Deep Learning (IR, Operator Fusion) | S26-Week-6-Lect2-SparseMM.pptx — Sparse matrix multiplication and graph IR |
-| W7 | Distributed Training Fundamentals; Data vs Model Parallelism | S26-Week-8-Lect2-DistTrain.pptx — Distributed training implementation |
-| W8 | Communication Optimizations and Scheduling | S26-Week-9-Lect2-Diffusion.pptx — Diffusion models and compute scheduling |
-| W9 | Systems for Large Models (LLMs, Diffusion Models) | S26-Week-10-Lect2-DLRM.pptx — Deep Learning Recommendation Models |
-| W10 | Profiling, Benchmarking, and Performance Analysis | (TBD — profiling demo or tool lecture) |
-| W11 | Case Studies: GNN Acceleration, Diffusion Models, Recommender Systems | (Combine with prior GNN, Diffusion, and DLRM lectures as recap) |
-| W.. | Course Presentation | Course Presentation
+| Jan 14/16 | Introduction to Deep Learning Systems; GPU/Accelerator Overview | S26-Week-1-Lect2-CIFAR10.pptx — CIFAR-10 example and basic DL workflow |
+| Jan 21/23 | Modern GPU Architecture for Deep Learning | S26-Week-2-Lect2-GEMM.pptx — Matrix multiplication and GPU compute cores |
+| Jan 28/30 | CUDA Programming and Kernel Optimization | S26-Week-3-Lect2-TensorCore.pptx — Tensor Core programming and mixed precision |
+| Feb 4/6 | Memory Hierarchy, Caching, and Memory Management | S26-Week-4-Lect2-Convolution.pptx — Convolution kernel optimization and dataflow |
+| Feb 11/13 | Tensor Operations and Optimized Kernels | S26-Week-5-Lect2-Transformer.pptx — Transformer model and attention computation |
+| Feb 18/20 | Compiler Techniques for Deep Learning (IR, Operator Fusion) | S26-Week-6-Lect2-SparseMM.pptx — Sparse matrix multiplication and graph IR |
+| Feb 25/27 | Distributed Training Fundamentals; Data vs Model Parallelism | S26-Week-8-Lect2-DistTrain.pptx — Distributed training implementation |
+| Mar 4/6 | Communication Optimizations and Scheduling | S26-Week-9-Lect2-Diffusion.pptx — Diffusion models and compute scheduling |
+| Mar 11/13 | Systems for Large Models (LLMs, Diffusion Models) | S26-Week-10-Lect2-DLRM.pptx — Deep Learning Recommendation Models |
+| Mar 18/20 | Profiling, Benchmarking, and Performance Analysis | (TBD — profiling demo or tool lecture) |
+| Mar 25/27 | Case Studies: GNN Acceleration, Diffusion Models, Recommender Systems | (Combine with prior GNN, Diffusion, and DLRM lectures as recap) |
+| - Apr 24 | Course Presentation | Course Presentation
 
 
 ## Exteral Talk

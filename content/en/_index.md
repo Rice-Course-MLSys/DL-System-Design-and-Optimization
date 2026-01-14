@@ -35,17 +35,14 @@ Every few weeks, we will also host a guest lecture from leading researchers and 
 
 ---
 
-**Lecture Videos:** [Link to be provided] 
-
 **Time:** *Wednesday, Friday* 12:30 PM - 01:45 PM CST
 
-**Building:**  Anne and Charles Duncan Hall 
+**Building:**  Herzstein Hall
 
-**Room:** TBA
+**Room:**  AMP
 
-**Start Date:** TBD
+**Start Date:** 01/12/2026
 
-**End Date:** TBD
-
+**End Date:** 04/24/2026
 
 

@@ -17,7 +17,7 @@ details summary {
 | Week | Lecture 1 | Lecture 2 |
 |------|----------------------------------|--------------------------|
 | Jan 14/16 | Introduction to Deep Learning Systems; GPU/Accelerator Overview [[Slides]](./S26-Week-0-Lect0-Background.pdf) | Intro to CUDA abd GPU Arch Programming [[Slides_1]](./S26-Week-0-Lect1-Intro%20to%20CUDA.pdf) [[Slides_2]](./S26-Week-0-Lect2-GPU-Arch-Programming.pdf) |
-| Jan 21/23 | Deep Learning Computer Vision [[Slides]](S26-Week-2-Lect1-Deep-Learning-Computer-Vision.pdf) | S26-Week-2-Lect2-GEMM.pptx — Matrix multiplication and GPU compute cores |
+| Jan 21/23 | Deep Learning Computer Vision [[Slides]](S26-Week-2-Lect1-Deep-Learning-Computer-Vision.pdf) | GEMM Operation Optimization [[Slides]](./S26-Week-2-Lect1-GEMM.pdf) [[Link]](https://penny-xu.github.io/blog/tiled-matrix-multiplication) |
 | Jan 28/30 | CUDA Programming and Kernel Optimization | S26-Week-3-Lect2-TensorCore.pptx — Tensor Core programming and mixed precision |
 | Feb 4/6 | Memory Hierarchy, Caching, and Memory Management | S26-Week-4-Lect2-Convolution.pptx — Convolution kernel optimization and dataflow |
 | Feb 11/13 | Tensor Operations and Optimized Kernels | S26-Week-5-Lect2-Transformer.pptx — Transformer model and attention computation |

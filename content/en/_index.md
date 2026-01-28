@@ -5,6 +5,8 @@ geekdocBreadcrumb: false
 # geekdocAnchor: false
 ---
 
+> **[IMPORTANT UPDATE] Due Extended!:** Due of Assignment 1(Dense GEMM) has been extended to Feb 6th. :)
+
 > **[IMPORTANT UPDATE] Tables:** [[Paper Reading]](https://docs.google.com/spreadsheets/d/1Ngvq1AmHGQM9snaqJ-YnOpaBlbpE9lLnx7yZUrJPnEU/edit?usp=sharing) [[Course Presentation]](https://docs.google.com/spreadsheets/d/1A6mRKnstF_ZnnTlxThOGPJXnHrSnx1dldHg4RKAxhNk/edit?usp=sharing)
 
 > **[IMPORTANT UPDATE] Project Repo:** [[Github]](https://github.com/Rice-Course-MLSys/COMP468-568-Experiments/)

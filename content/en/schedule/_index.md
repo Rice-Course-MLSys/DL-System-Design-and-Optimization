@@ -18,7 +18,7 @@ details summary {
 |------|----------------------------------|--------------------------|
 | Jan 14/16 | Introduction to Deep Learning Systems; GPU/Accelerator Overview [[Slides]](./S26-Week-0-Lect0-Background.pdf) | Intro to CUDA and GPU Arch Programming [[Slides 1]](./S26-Week-0-Lect1-Intro%20to%20CUDA.pdf) [[Slides 2]](./S26-Week-0-Lect2-GPU-Arch-Programming.pdf) |
 | Jan 21/23 | Deep Learning Computer Vision [[Slides]](S26-Week-2-Lect1-Deep-Learning-Computer-Vision.pdf) | GEMM Operation Optimization [[Slides 1]](./S26-Week-2-Lect1-GEMM.pdf) [[Link 1]](https://penny-xu.github.io/blog/tiled-matrix-multiplication) [[Slides 2 ]](./S26-Week-2-Lect2-GEMM.pdf) [[Link 2]](https://www.aleksagordic.com/blog/matmul) |
-| Jan 28/30 | Sparse Matrix Multiplication [[Slides]](./S26-Week-3-Lect1-SpMM.pdf) | S26-Week-3-Lect2-TensorCore.pptx — Tensor Core programming and mixed precision |
+| Jan 28/30 | Sparse Matrix Multiplication [[Slides]](./S26-Week-3-Lect1-SpMM.pdf) | PyTorch Customr C++ and CUDA Operators [[Slides]](./26-Week-3-Lect2-pytorch_extension.pdf) |
 | Feb 4/6 | Memory Hierarchy, Caching, and Memory Management | S26-Week-4-Lect2-Convolution.pptx — Convolution kernel optimization and dataflow |
 | Feb 11/13 | Tensor Operations and Optimized Kernels | S26-Week-5-Lect2-Transformer.pptx — Transformer model and attention computation |
 | Feb 18/20 | Compiler Techniques for Deep Learning (IR, Operator Fusion) | S26-Week-6-Lect2-SparseMM.pptx — Sparse matrix multiplication and graph IR |

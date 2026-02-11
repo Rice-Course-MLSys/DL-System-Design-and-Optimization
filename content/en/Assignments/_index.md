@@ -2,7 +2,7 @@
 title: Assignments
 ---  
 
-**Submission Link:** [[Link]](https://rice.app.box.com/f/ffb6ca6efcf64f9086c3c6d65cc61c74)
+**Submission Link:** [[Link]](https://rice.app.box.com/f/ffb6ca6efcf64f9086c3c6d65cc61c74) *Deprecated, please submit through canvas*
 
 > File Name Standard: **Firstname_Lastname_netid_assignmentN.zip**
 
@@ -11,3 +11,4 @@ title: Assignments
 |-------------|------------|------------|------------|
 | Tutorials | Jan 21st | - | [[Lab 0]](https://github.com/Rice-Course-MLSys/COMP468-568-Experiments/tree/main/exp0_slurm_CUDA_toturial) |
 | Dense GEMM | Jan 21st | Feb 6th 11:59 PM | [[Lab 1]](https://github.com/Rice-Course-MLSys/COMP468-568-Experiments/tree/main/exp1_dgemm) |
+| MLP | Feb 11st | Feb 20th 11:59 PM | [[Lab 2]](https://github.com/Rice-Course-MLSys/COMP468-568-Experiments/tree/main/exp2_mlp) |

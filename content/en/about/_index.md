@@ -3,6 +3,8 @@ title: "About"
 sortReverse: true
 ---
 
+> **[IMPORTANT UPDATE] Due Updated:** Due of Lab 2(MLP) and Lab 3(SpMM) are changed to *next Friday(Feb 27th)*
+
 > **[IMPORTANT UPDATE] Tables:** [[Paper Reading]](https://docs.google.com/spreadsheets/d/1Ngvq1AmHGQM9snaqJ-YnOpaBlbpE9lLnx7yZUrJPnEU/edit?usp=sharing) [[Course Presentation]](https://docs.google.com/spreadsheets/d/1A6mRKnstF_ZnnTlxThOGPJXnHrSnx1dldHg4RKAxhNk/edit?usp=sharing)
 
 > **[IMPORTANT UPDATE] Project Repo:** [[Github]](https://github.com/Rice-Course-MLSys/COMP468-568-Experiments/)

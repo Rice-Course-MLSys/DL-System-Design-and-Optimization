@@ -21,7 +21,7 @@ details summary {
 | Jan 28/30 | Sparse Matrix Multiplication [[Slides]](./S26-Week-3-Lect1-SpMM.pdf) | PyTorch Customr C++ and CUDA Operators [[Slides]](./26-Week-3-Lect2-pytorch_extension.pdf) |
 | Feb 4/6 | Guest Lecture - Jianming Tong [[Record]](https://rice.box.com/s/eidzagxnij6ihfq804w8vkl02tqa3vhh) | Convolution Operation [[Slides]](./S26-Week-4-Lect1-Convolution.pdf) |
 | Feb 11/13 | Evolution & Programming of Tensor Cores [[Slides]](./S26-Week-5-Lect1-GPU-TensorCore.pdf) | *Spring Recess No Course* |
-| Feb 18/20 | Compiler Techniques for Deep Learning (IR, Operator Fusion) | S26-Week-6-Lect2-SparseMM.pptx — Sparse matrix multiplication and graph IR |
+| Feb 18/20 | Transformer Ops & Float Format [[Slides 1]](./S26-Week-6-Lect1-Transformer.pdf) [[Slides 2]](./S26-Week-6-Data-Format.pdf) | TBD |
 | Feb 25/27 | Distributed Training Fundamentals; Data vs Model Parallelism | S26-Week-8-Lect2-DistTrain.pptx — Distributed training implementation |
 | Mar 4/6 | Communication Optimizations and Scheduling | S26-Week-9-Lect2-Diffusion.pptx — Diffusion models and compute scheduling |
 | Mar 11/13 | Systems for Large Models (LLMs, Diffusion Models) | S26-Week-10-Lect2-DLRM.pptx — Deep Learning Recommendation Models |

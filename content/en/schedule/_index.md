@@ -22,8 +22,8 @@ details summary {
 | Feb 4/6 | Guest Lecture - Jianming Tong [[Record]](https://rice.box.com/s/eidzagxnij6ihfq804w8vkl02tqa3vhh) | Convolution Operation [[Slides]](./S26-Week-4-Lect1-Convolution.pdf) |
 | Feb 11/13 | Evolution & Programming of Tensor Cores [[Slides]](./S26-Week-5-Lect1-GPU-TensorCore.pdf) | *Spring Recess No Course* |
 | Feb 18/20 | Transformer Ops [[Slides]](./S26-Week-6-Lect1-Transformer.pdf) | Float Format [[Slides]](./S26-Week-6-Data-Format.pdf)|
-| Feb 25/27 | Guest Lecture - Hongzheng Chen [[Slide]](./composable_pm_rice-Feb25.pdf) | TBD |
-| Mar 4/6 | Guest Lecture - Wan Zishen | NCCL Communication & Distributed Training [[SLides 1]](./NCCL_Communication.pdf) [[Slides 2]](./S26-Week-7-Lect2-Distributed-Training.pdf) |
+| Feb 25/27 | Guest Lecture - Hongzheng Chen [[Slide]](./composable_pm_rice-Feb25.pdf) | NCCL Communication & Distributed Training [[SLides 1]](./NCCL_Communication.pdf) [[Slides 2]](./S26-Week-7-Lect2-Distributed-Training.pdf) |
+| Mar 4/6 | Guest Lecture - Wan Zishen | Graph Neural Networks [[Slides]](./S26-Week-8-Lect2-GNN.pdf) |
 | Mar 11/13 | TBD | TBD |
 | Mar 18/20 | TBD | TBD |
 | Mar 25/27 | TBD | TBD |

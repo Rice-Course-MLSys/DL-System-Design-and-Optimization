@@ -9,6 +9,7 @@ title: Assignments
 
 | Assignments | Release | Due | Link |
 |-------------|------------|------------|------------|
+| Final Project | - | Apr 24th 11:59 PM | - |
 | Tutorials | Jan 21st | - | [[Lab 0]](https://github.com/Rice-Course-MLSys/COMP468-568-Experiments/tree/main/exp0_slurm_CUDA_toturial) |
 | Dense GEMM | Jan 21st | Feb 6th 11:59 PM | [[Lab 1]](https://github.com/Rice-Course-MLSys/COMP468-568-Experiments/tree/main/exp1_dgemm) |
 | MLP | Feb 11st | Feb 27th 11:59 PM | [[Lab 2]](https://github.com/Rice-Course-MLSys/COMP468-568-Experiments/tree/main/exp2_mlp) |

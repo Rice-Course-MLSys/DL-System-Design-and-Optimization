@@ -25,7 +25,7 @@ details summary {
 | Feb 25/27 | Guest Lecture - Hongzheng Chen [[Slides]](./composable_pm_rice-Feb25.pdf) | NCCL Communication & Distributed Training [[Slides 1]](./NCCL_Communication.pdf) [[Slides 2]](./S26-Week-7-Lect2-Distributed-Training.pdf) |
 | Mar 4/6 | Guest Lecture - Wan Zishen | Graph Neural Networks [[Slides]](./S26-Week-8-Lect2-GNN.pdf) |
 | Mar 11/13 | TBD | Tensor-Train Decomposition [[Slides]](./S26-Week-10-Lect2-Tensor-Train.pdf) |
-| Mar 18/20 | TBD | TBD |
+| Mar 18/20 | **Spring Break – No Class** | **Spring Break – No Class** |
 | Mar 25/27 | TBD | TBD |
 | - Apr 24 | Course Presentation | Course Presentation
 

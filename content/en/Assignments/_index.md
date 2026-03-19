@@ -14,5 +14,5 @@ title: Assignments
 | Dense GEMM | Jan 21st | Feb 6th 11:59 PM | [[Lab 1]](https://github.com/Rice-Course-MLSys/COMP468-568-Experiments/tree/main/exp1_dgemm) |
 | MLP | Feb 11st | Feb 27th 11:59 PM | [[Lab 2]](https://github.com/Rice-Course-MLSys/COMP468-568-Experiments/tree/main/exp2_mlp) |
 | SpMM | Feb 16st | Feb 27th 11:59 PM | [[Lab 3]](https://github.com/Rice-Course-MLSys/COMP468-568-Experiments/tree/main/exp3_spmm) |
-| SpMM Edge | Mar 4th | Mar 20th 11:59 PM | [[Lab 4]](https://github.com/Rice-Course-MLSys/COMP468-568-Experiments/tree/main/exp4_spmm_edge) |
-| 2D Conv | Mar 4th | Mar 20th 11:59 PM | [[Lab 5]](https://github.com/Rice-Course-MLSys/COMP468-568-Experiments/tree/main/exp5_conv) |
+| SpMM Edge | Mar 4th | April 1st 11:59 PM | [[Lab 4]](https://github.com/Rice-Course-MLSys/COMP468-568-Experiments/tree/main/exp4_spmm_edge) |
+| 2D Conv | Mar 4th | April 1st 11:59 PM | [[Lab 5]](https://github.com/Rice-Course-MLSys/COMP468-568-Experiments/tree/main/exp5_conv) |

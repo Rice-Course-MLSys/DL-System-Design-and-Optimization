@@ -10,6 +10,7 @@ details summary {
 }
 </style>
 
+
 <!-- --- 
 | Date   | Topic | Materials | Lab |
 |--------|-------|-----------|-----| -->

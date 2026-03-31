@@ -27,7 +27,7 @@ details summary {
 | Mar 4/6 | Guest Lecture - Wan Zishen | Graph Neural Networks [[Slides]](./S26-Week-8-Lect2-GNN.pdf) |
 | Mar 11/13 | TBD | Tensor-Train Decomposition [[Slides]](./S26-Week-10-Lect2-Tensor-Train.pdf) |
 | Mar 18/20 | **Spring Break – No Class** | **Spring Break – No Class** |
-| Mar 25/27 | TBD | TBD |
+| Mar 25/27 | presentation | presentation |
 | - Apr 24 | Course Presentation | Course Presentation
 
 

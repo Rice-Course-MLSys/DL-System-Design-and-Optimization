@@ -30,6 +30,7 @@ details summary {
 | - Apr 24 | Course Presentation | Course Presentation
 
 
+
 ## External Talk
 | Date   | Lecturer | Topic | Materials |
 |------|----------------|------------------|-------------------------|
